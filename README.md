@@ -24,3 +24,62 @@ This project is designed primarily for learning and practice purposes, helping b
 ---
 
 ## Project Structure
+restaurant_pjt_using_python
+│
+├── restaurant.py # Main Python application
+└── README.md # Project documentation
+
+
+---
+
+## How the System Works
+1. The application displays the available menu items and their prices.
+2. The user selects the items they want to order.
+3. The program checks if the selected items are available.
+4. Items are added to the order list.
+5. The system calculates and displays the final bill.
+
+---
+
+## Installation and Usage
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/premkumar205/restaurant_pjt_using_python-.git
+2. Navigate to the Project Directory
+cd restaurant_pjt_using_python-
+3. Run the Application
+python restaurant.py
+Learning Outcomes
+
+This project helps in understanding:
+
+Python dictionaries
+
+Conditional statements
+
+Loops
+
+User input handling
+
+Basic program logic and structure
+
+Future Enhancements
+
+Graphical User Interface (GUI) using Tkinter
+
+Database integration for menu and orders
+
+Order history tracking
+
+Admin panel for menu management
+
+Author
+
+Prem Kumar
+B.Tech in Artificial Intelligence and Data Science
+Vignan Institute of Technology and Science
+
+Email: yadavpremkumar436@gmail.com
+
+GitHub: https://github.com/premkumar205
